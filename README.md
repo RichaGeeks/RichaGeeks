@@ -1,5 +1,4 @@
-![Purple and Pink 3D Illustrative Modern Digital Marketing Agency Banner](https://github.com/user-attachments/assets/050cbfc0-782f-4501-9d49-d0b5452f27a3)
-
+![Purple and Pink 3D Illustrative Modern Digital Marketing Agency Banner (1)](https://github.com/user-attachments/assets/48fe34fc-8008-401c-bc45-4579d76d0300)
 
 I am Richa Suryawanshi <br>
 KJ Somaiya , Electronics and Computer engineering <br>
