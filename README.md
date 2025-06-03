@@ -17,7 +17,7 @@
 📫 How to reach me **richa.rs@somaiya.edu**
 
 📄 Know about my experiences :
-💼 Web Developer Lead Intern – Meshcraft (Dec 2024 – Mar 2025) I led a team of 6+ developers to build and optimize 3D gaming features using React, React Three Fiber, and Three.js. I was responsible for task delegation, code reviews, and improving delivery efficiency by 30%. My role also involved enhancing UI/UX across platforms and ensuring responsive, high-performance web experiences within the MERN stack environment. 
+💼 Web Developer Lead Intern – Meshcraft (Dec 2024 – Mar 2025) I led a team of 6+ developers to build and optimize 3D gaming features using React, React Three Fiber, and Three.js. I was responsible for task delegation, code reviews, and improving delivery efficiency by 30%. My role also involved enhancing UI/UX across platforms and ensuring responsive, high-performance web experiences within the MERN stack environment. <br>
 💼 Full Stack Developer Intern – ILegalAdvice (Mar 2025 – Apr 2025) At ILegalAdvice, I contributed to designing and developing a full-stack legal tech platform powered by AI. I created UI/UX prototypes in Figma and implemented core features using React, Node.js, Tailwind CSS, and PostgreSQL. I also integrated RESTful APIs for real-time case insights, making legal assistance more accessible and intelligent.
 
 - ⚡ Fun fact **I talk to my Three.js 3D website models like they’re real. They haven’t responded… yet.**
